@@ -67,38 +67,6 @@ Includes exposure across:
 
 ---
 
-# Mathematical Framework
-
-## Expected Portfolio Return
-
-E(R_p)=\sum w_iR_i
-
----
-
-## Portfolio Variance
-
-\sigma_p^2=w^T\Sigma w
-
----
-
-## Portfolio Volatility
-
-\sigma_p=\sqrt{w^T\Sigma w}
-
----
-
-## Sharpe Ratio
-
-\text{Sharpe Ratio}=\frac{R_p-R_f}{\sigma_p}
-
----
-
-## Beta
-
-\beta=\frac{\text{Cov}(R_p,R_m)}{\sigma_m^2}
-
----
-
 # Tools & Technologies
 
 * Microsoft Excel
@@ -151,7 +119,7 @@ This project is created for educational and research purposes only and should no
 
 Chinmay C K
 
-* Portfolio Strategist
-* CWM Level 1 Certified
+* Equity Dealer
+* CWM Level 2 Certified
 * Computer Science Graduate
 * Quant & Portfolio Analytics Enthusiast
